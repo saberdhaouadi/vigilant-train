@@ -1,4 +1,4 @@
-#!/usr/local/bin/python3.6
+
 from flask import Flask, render_template
 app = Flask(__name__)
 
